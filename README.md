@@ -9,11 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="https://orviniq.com">Website</a>
-  &nbsp;·&nbsp;
-  <a href="https://t.me/NimaShadloo">Telegram</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:contact@orviniq.com">Email</a>
+  <a href="https://orviniq.com">
+    <img src="https://img.shields.io/badge/Website-orviniq.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B1F3A" alt="Website" height="26">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/NimaShadloo">
+    <img src="https://img.shields.io/badge/Telegram-%40NimaShadloo-2563EB?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0B1F3A" alt="Telegram" height="26">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:contact@orviniq.com">
+    <img src="https://img.shields.io/badge/Email-contact%40orviniq.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1F3A" alt="Email" height="26">
+  </a>
 </p>
 
 ---
@@ -75,9 +81,17 @@ Send a short summary of the problem you are solving, your timeline, and whether 
 <br>
 
 <p align="center">
-  <a href="mailto:contact@orviniq.com"><strong>contact@orviniq.com</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://t.me/NimaShadloo"><strong>Telegram: @NimaShadloo</strong></a>
+  <a href="https://orviniq.com">
+    <img src="https://img.shields.io/badge/Website-orviniq.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B1F3A" alt="Website" height="26">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/NimaShadloo">
+    <img src="https://img.shields.io/badge/Telegram-%40NimaShadloo-2563EB?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0B1F3A" alt="Telegram" height="26">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:contact@orviniq.com">
+    <img src="https://img.shields.io/badge/Email-contact%40orviniq.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1F3A" alt="Email" height="26">
+  </a>
 </p>
 
 <br>
