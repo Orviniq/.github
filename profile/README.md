@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://orviniq.com">
-    <img src="https://raw.githubusercontent.com/Orviniq/.github/main/profile/assets/banner.png" alt="Orviniq — Backend-first product engineering" width="100%">
+    <img src="https://raw.githubusercontent.com/Orviniq/.github/main/profile/assets/banner.png" alt="Orviniq" width="100%">
   </a>
 </p>
 
 <p align="center">
-  <strong>Backend-first product engineering — APIs, apps, and production systems.</strong>
+  <strong>Software engineering studio for backend, mobile, and web systems.</strong>
 </p>
 
 <p align="center">
@@ -18,22 +18,22 @@
 
 ### What we do
 
-Orviniq is an engineering studio. We take products from an empty repository to reliable production under real traffic — the API, the clients that consume it, and the systems supporting both. We work in tight engagements with direct access to the engineers writing the code.
+Orviniq is an engineering studio. We build software across different domains, including e-commerce platforms, hospitality systems, and encrypted messaging apps. Every project starts with the foundation: solid data modeling and API architecture, followed by mobile apps in Flutter and web applications in Next.js.
 
-Our focus is backend-heavy software: systems where data models, permissions, transactional integrity, and failure modes matter most. We also build the web and mobile applications that sit on top of those systems to the same rigorous standard.
+We work directly with clients, writing code with no middlemen or account managers. We focus on clean data models, reliable databases, and software that keeps running smoothly under real traffic.
 
 ---
 
 ### Services
 
 #### 01. Backend & APIs
-Django, Django REST Framework, and FastAPI services built for reliability, data integrity, and high throughput. We design relational schemas, secure auth/permissions, background processing, and administrative tooling teams can actually operate.
+APIs and services built with Python, Django, DRF, and FastAPI. Solid database design, authentication, background workers with Celery, payment integrations, and custom admin back offices teams can actually use.
 
-#### 02. Client Applications
-Production web apps with **Next.js / TypeScript** and cross-platform mobile apps with **Flutter**. Built strictly against typed API contracts so frontend and backend stay in lockstep.
+#### 02. Mobile & Web Apps
+Cross-platform mobile apps with Flutter (iOS and Android) and web applications with Next.js and TypeScript. We build clean, responsive interfaces that stay fast and handle offline sync properly.
 
-#### 03. Code Audits & Reviews
-Security, performance, database query efficiency, and release-readiness audits for existing Django and FastAPI codebases. We deliver prioritized, actionable findings with concrete code fixes — not automated scanner dumps.
+#### 03. Code Reviews & Audits
+Architecture, performance, and security reviews for existing codebases. We deliver a clear list of findings with working code fixes instead of raw scanner exports.
 
 ---
 
@@ -43,10 +43,10 @@ Security, performance, database query efficiency, and release-readiness audits f
   <img src="https://raw.githubusercontent.com/Orviniq/.github/main/profile/assets/workflow.gif" alt="Orviniq Delivery Workflow" width="100%">
 </p>
 
-1. **Architecture & Contracts** — We settle data models, relational constraints, and typed API boundaries upfront so systems scale predictably.
-2. **Core Engine** — High-throughput Django and FastAPI services, role-based access control, and idempotent background workers.
-3. **Client Integration** — Next.js web and Flutter mobile applications built in lockstep with the settled API specifications.
-4. **Hardening & Launch** — Database query optimization, migration safety verification, and automated zero-downtime deployment.
+1. **Architecture:** Settle data models, user flows, and API specs first so frontend and backend stay aligned.
+2. **Core Backend:** Build the APIs, authentication, permissions, and background workers.
+3. **Mobile & Web:** Build the Flutter apps and Next.js platforms directly against the API specs.
+4. **Deployment:** Hardening, security checks, database optimization, and automated release setup.
 
 ---
 
@@ -54,21 +54,25 @@ Security, performance, database query efficiency, and release-readiness audits f
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Backend & APIs** | Python · Django · Django REST Framework · FastAPI · Celery |
-| **Data & Storage** | PostgreSQL · Redis |
-| **Client Applications** | Next.js · TypeScript · Flutter · Tailwind CSS |
+| **Backend & APIs** | Python, Django, DRF, FastAPI, Celery |
+| **Mobile & Web** | Flutter, Next.js, TypeScript, Tailwind CSS |
+| **Databases & Storage** | PostgreSQL, Redis, S3 / Object Storage |
 
 ---
 
 ### Selected Works
 
-- **[communication-platform](https://github.com/Orviniq/communication-platform)** — End-to-end encrypted messaging system engineered to maintain availability and peer synchronization through severe network degradation and national internet shutdowns.
+All client systems are strictly private under NDA. To show the standard of software we build, we publish open-source systems and reference platforms:
+
+- **[communication-platform](https://github.com/Orviniq/communication-platform)**: An encrypted messenger with a Flutter Android app and FastAPI/Django backend, built to keep working through heavy network throttling and internet shutdowns.
+
+We regularly publish production showcase platforms so prospective clients can inspect our code quality.
 
 ---
 
 ### Working with us
 
-Send a short summary of the problem you are solving, your timeline, and whether there is an existing codebase. We review inquiries directly and respond promptly:
+Send a brief note about the project, your timeline, and whether you have an existing codebase. We review inquiries directly and reply within a couple of days:
 
 <br>
 
